@@ -8,7 +8,7 @@ In life, you only have 60 seconds to impress someone. 1 minute can make or break
 
 ## AUTHOR
 
-Aoko Mercyline
+Amwata Albert
 
 ## FEATURES
 
@@ -25,13 +25,13 @@ Aoko Mercyline
 
 ## PREREQUISITES
 
-* python3.6
+* python3.8
 * virtual environment
 * pip
 
 ## CLONING
 
-* git clone https://github.com/AokoMercyline/One-Minute-Pitches
+* git clone https://github.com/Amwata-Albert/One-minute-Pitch.git
 * cd One-Minute-Pitch
 
 ## TECHNLOGIES
@@ -41,10 +41,10 @@ Aoko Mercyline
 * HTML
 * Bootstrap
 
-## SUPPORT and TEAM
+## SUPPORT 
 
-0708434156
+albertotieno41@gmail.com
 
 ## LICENSE AND COPYRIGHT
 
-[Mit License](https://opensource.org/licenses/MIT)2020 &copy; AokoMercyline
+[Mit License](https://opensource.org/licenses/MIT)2020 &copy; Amwata Albert
